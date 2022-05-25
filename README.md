@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg) -->
 <h3 align="center">Добрый день!</h3>
 <p align="center">Я Ткачева Зоя, ищу стажировку Frontend-разработчика.</p>
-<p>Я проходила курс "Web-технологии" в ЧОУ ДПО "Школа программной инженерии."</p>
+<p>Я проходила курс "Основы Web-разработки" в ЧОУ ДПО "Школа программной инженерии."</p>
 <p>Сделала небольшой лэндинг: https://veterok-20.github.io/landing_music_teacher/</p>
 <p>На курсах меня заинтересовала работа с библиотекой ReactJS, я написала небольшое тривиальное приложение для работы со списком: https://github.com/Veterok-20/simple_list</p>
 <p>Также на курсах делала sql-запросы разного уровня сложности. </p>
